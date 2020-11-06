@@ -3,11 +3,12 @@
 
 ## Table of contents
 
-* [CS1101S](#cs1101s)
-* [CS1231S](#cs1231s)
-* [GET1031](#get1031)
-* [MA1101R](#ma1101r)
-* [MA1521](#ma1521)
+* Semester 1
+  * [CS1101S](#cs1101s)
+  * [CS1231S](#cs1231s)
+  * [GET1031](#get1031)
+  * [MA1101R](#ma1101r)
+  * [MA1521](#ma1521)
 
 ## Semester 1
 ### CS1101S
