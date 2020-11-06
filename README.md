@@ -15,6 +15,7 @@
 - [X] Minimum Spanning Tree
 - [ ] Dijkstra
 - [ ] BFS & DFS
+- [ ] Euler path/ circuits
 
 ### GET1031
 - [X] Algo implementation for project: Scheduling patients
