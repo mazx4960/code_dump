@@ -1,2 +1,4 @@
 # code_dump
-A place to store random code
+A repository for all the codes I did for various mods
+
+
