@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-* Semester 1
+* [Semester 1](#semester-1)
   * [CS1101S](#cs1101s)
   * [CS1231S](#cs1231s)
   * [GET1031](#get1031)
